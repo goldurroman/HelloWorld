@@ -7,7 +7,7 @@ public class factorielle {
                factoriel = factoriel * valeur;
                valeur = valeur - 1;
         }
-        System.out.println("La factorielle est : " + factoriel);
+        System.out.println("La factorielle est :+++++++++++++ " + factoriel);
     }
 }
 
